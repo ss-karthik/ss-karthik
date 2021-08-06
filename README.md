@@ -1,7 +1,10 @@
-- Hi, I’m @ss-karthik
+#Hello Fellow Humans (and Bots too!)
+
+
+- Hi, I’m Karthik
 - I’m interested in Linux,Web Development, Open-source software and Technology in General.
-- I’m currently learning Javascript and Vala (Though the latter is pretty hard to learn due to lack of good learning resources.)
-- I also have a tech podcast called Tech Maniac which you can find on all major podcasting platforms.
+- I also make YouTube videos about the same at https://www.youtube.com/channel/UCmBjrZCeBl8jPLA5O5Gc6VQ
+- I also have a tech podcast called Techsting which you can find on all major podcasting platforms.
 - To contact me, drop me an e-mail at maniac.sskarthik@gmail.com or follow me on my social media handles(@ss_maniac).
 
 <!---
