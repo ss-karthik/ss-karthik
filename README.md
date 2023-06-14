@@ -3,9 +3,8 @@
 
 - Hi, I’m Karthik
 - I’m interested in Linux,Web Development, Open-source software and Technology in General.
-- I also make YouTube videos about the same at https://www.youtube.com/channel/UCmBjrZCeBl8jPLA5O5Gc6VQ
-- I also have a tech podcast called Techsting which you can find on all major podcasting platforms.
-- To contact me, drop me an e-mail at maniac.sskarthik@gmail.com or follow me on my social media handles(@ss_maniac).
+- I also make videos about the same on my [YouTube Channel](https://www.youtube.com/@Maniakss)
+- To contact me, drop me an e-mail at <maniac.sskarthik@gmail.com> or drop a DM on my [Twitter](https://twitter.com/ssmaniak) or [Instagram](https://www.instagram.com/maniak.ss/)
 
 <!---
 ss-karthik/ss-karthik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
